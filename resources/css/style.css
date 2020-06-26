@@ -525,6 +525,9 @@ header h1 {
   margin-top: 1.52rem;
 }
 
+.about wrapper em {
+  font-style: italic;
+}
 
 /* line 134, ../sass/screen.scss */
 #data p {
