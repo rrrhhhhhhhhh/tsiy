@@ -393,6 +393,10 @@ body {
   color: black;
 }
 
+.italic {
+  font-style: italic;
+}
+
 /* line 99, ../sass/_typography.scss */
 h3 {
   text-transform: uppercase;
@@ -523,10 +527,6 @@ header h1 {
 /* line 119, ../sass/screen.scss */
 .about-wrapper {
   margin-top: 1.52rem;
-}
-
-.about em {
-  font-style: italic;
 }
 
 /* line 134, ../sass/screen.scss */
