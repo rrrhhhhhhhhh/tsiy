@@ -517,7 +517,7 @@ header h1 {
 }
 /* line 114, ../sass/screen.scss */
 .about-wrapper h3 {
-  font-family: 'Pantasia';
+  font-family: Times, 'Times New Roman', serif;
 }
 
 /* line 119, ../sass/screen.scss */
@@ -525,7 +525,7 @@ header h1 {
   margin-top: 1.52rem;
 }
 
-.about-wrapper em {
+.about em {
   font-style: italic;
 }
 
