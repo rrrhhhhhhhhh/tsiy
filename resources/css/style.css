@@ -532,7 +532,7 @@ header h1 {
   font-style: italic;
 }
 
-body #divide {
+#divide {
   border-top: 1px solid black;
 }
 
