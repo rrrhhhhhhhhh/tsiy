@@ -510,13 +510,13 @@ header h1 {
 /* line 104, ../sass/screen.scss */
 .about-wrapper a:link,
 .about-wrapper a:visited {
-  color: blue;
+  color: green;
   text-decoration: none;
   transition: color 0.5s ease;
 }
 /* line 110, ../sass/screen.scss */
 .about-wrapper a:hover {
-  color: black;
+  color: yellow;
 }
 /* line 114, ../sass/screen.scss */
 .about-wrapper h3 {
@@ -624,17 +624,6 @@ header h1 {
 .list-panel #talks,
 #contact #talks {
   margin-bottom: 0.5rem;
-}
-
-.about-wrapper #btn a:link,
-.about-wrapper #btn a:visited {
-    color: black;
-    text-decoration: none;
-    transition: color 0.5s ease;
-}
-
-.about-wrapper #btn a:hover {
-  color: white;
 }
 
 /* line 235, ../sass/screen.scss */
